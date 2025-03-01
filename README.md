@@ -1,2 +1,2 @@
 # 1v1
-small game to test out paper2d
+small local hosted fighting game to test out paper2d
